@@ -33,7 +33,7 @@ export function Footer() {
           </div>
         </div>
         <div className="mt-8 text-center">
-          <p>&copy; 2023 TechBazaar. All rights reserved.</p>
+          <p>&copy; 2025 TechBazaar. All rights reserved.</p>
         </div>
       </div>
     </footer>
