@@ -260,12 +260,12 @@ export default function Home() {
             </div>
             <div>
               <h3 className="text-lg font-semibold mb-4">Contact Us</h3>
-              <p>Email: support@techbazaar.com</p>
-              <p>Phone: +91 1234567890</p>
+              <p>Email: bismaydey001@gmail.com</p>
+              <p>Phone: +91 8100314152</p>
             </div>
           </div>
           <div className="mt-8 text-center">
-            <p>&copy; 2023 TechBazaar. All rights reserved.</p>
+            <p>&copy; 2025 TechBazaar. All rights reserved.</p>
           </div>
         </div>
       </footer>
